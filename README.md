@@ -22,6 +22,15 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+WHOIS-
+![Screenshot 2024-09-11 084439](https://github.com/user-attachments/assets/fb1d1073-d8c9-4dd3-9a5a-e9972848c0a0)
+
+IP2LOCATION-
+![Screenshot 2024-09-11 084831](https://github.com/user-attachments/assets/e8767792-30ea-4d37-822f-f2aaf1500ba0)
+
+WEB ARCHIVE-
+![Screenshot 2024-09-11 085439](https://github.com/user-attachments/assets/76dc7e29-d17d-4add-80e7-bf8eb132f101)
+
 WEBSERVER FINGERPRINTING
 
 NMAP
